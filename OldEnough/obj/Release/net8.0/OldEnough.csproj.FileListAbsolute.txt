@@ -1,0 +1,15 @@
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/bin/Release/net8.0/OldEnough
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/bin/Release/net8.0/OldEnough.deps.json
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/bin/Release/net8.0/OldEnough.runtimeconfig.json
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/bin/Release/net8.0/OldEnough.dll
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/bin/Release/net8.0/OldEnough.pdb
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/obj/Release/net8.0/OldEnough.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/obj/Release/net8.0/OldEnough.AssemblyInfoInputs.cache
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/obj/Release/net8.0/OldEnough.AssemblyInfo.cs
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/obj/Release/net8.0/OldEnough.csproj.CoreCompileInputs.cache
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/obj/Release/net8.0/OldEnough.sourcelink.json
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/obj/Release/net8.0/OldEnough.dll
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/obj/Release/net8.0/refint/OldEnough.dll
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/obj/Release/net8.0/OldEnough.pdb
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/obj/Release/net8.0/OldEnough.genruntimeconfig.cache
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/OldEnough/obj/Release/net8.0/ref/OldEnough.dll
