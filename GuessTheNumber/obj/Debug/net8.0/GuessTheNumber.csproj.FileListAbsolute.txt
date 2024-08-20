@@ -1,0 +1,14 @@
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.deps.json
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.runtimeconfig.json
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.dll
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/bin/Debug/net8.0/GuessTheNumber.pdb
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.AssemblyInfoInputs.cache
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.AssemblyInfo.cs
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.csproj.CoreCompileInputs.cache
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.dll
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/refint/GuessTheNumber.dll
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.pdb
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/GuessTheNumber.genruntimeconfig.cache
+/Users/nicolaichristensen/RiderProjects/GuessTheNumber/GuessTheNumber/obj/Debug/net8.0/ref/GuessTheNumber.dll
